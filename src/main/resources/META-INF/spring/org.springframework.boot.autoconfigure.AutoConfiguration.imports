@@ -1,0 +1,3 @@
+com.atlancia.sunset.SunsetMetricsAutoConfiguration
+com.atlancia.sunset.SunsetAutoConfiguration
+com.atlancia.sunset.SunsetActuatorAutoConfiguration
